@@ -1,0 +1,9 @@
+body{
+    font-family: 'Pacifico', cursive;
+}
+
+header{
+    display: flex;
+    background-color: #2CBF60;
+
+}
